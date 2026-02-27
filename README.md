@@ -6,7 +6,6 @@ A full-stack cloud storage application built with Node.js, Express, MongoDB, and
 ![Node.js](https://img.shields.io/badge/Node.js-v18+-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
 
-## 📸 Screenshots
 
 
 
